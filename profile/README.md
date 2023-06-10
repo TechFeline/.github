@@ -25,5 +25,5 @@ We welcome contributions from the open-source community! If you're interested in
 
 ## Contact Us
 
-For any inquiries or questions, feel free to reach out to us at [swapniljadhav6022@gmail.com]. We'd love to hear from you!
+For any inquiries or questions, feel free to reach out to us at [swapniljadhav6022@gmail.com]. We'd love ❤️ to hear from you!
 
