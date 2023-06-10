@@ -18,13 +18,6 @@ Join us on this exciting journey as we combine technology and feline spirit to c
 
 ## Projects
 
-## Getting Started
-
-To get started with TechFeline, follow these steps:
-
-1. [Installation Steps]
-2. [Configuration Steps]
-3. [Usage Examples]
 
 ## Contributing
 
