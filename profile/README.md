@@ -16,7 +16,8 @@ Whether you're a startup looking to bring your idea to life or an established en
 
 Join us on this exciting journey as we combine technology and feline spirit to create a future where possibilities are endless. Welcome to TechFeline!
 
-## Projects
+## Our Products
+1. <a href="https://techfeline.github.io/quoty">Quoty</a>
 
 
 ## Contributing
