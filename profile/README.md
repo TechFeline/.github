@@ -19,6 +19,7 @@ Join us on this exciting journey as we combine technology and feline spirit to c
 ## Our Products
 1. <a href="https://techfeline.github.io/Quoty">Quoty</a>
 2. <a href="https://techfeline.github.io/unit-converter">Unit Converter</a>
+3. <a href="https://swapnil-2503.connect.vercel.app">College Connect</a>
 
 ## Contributing
 
